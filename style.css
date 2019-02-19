@@ -1,0 +1,94 @@
+#page
+{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+#titre
+{
+	margin-left: 50%;
+}
+
+nav
+{
+	margin-bottom: 5%;
+	text-decoration: underline;
+}
+
+header
+{
+	display: flex;
+	height: 20%;
+	align-items: center;
+	background-color: #D8D8D8;
+}
+
+ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+nav li
+{
+	margin-left: 5%;
+	font-size: 1.5em;
+}
+
+.text_img
+{
+	display: flex;
+}
+
+#logo_rgpd
+{
+	margin-right: 10px;
+}
+
+.text_qrgpd
+{
+	text-align: justify;
+	margin-right: 10px;
+}
+
+ol li
+{
+	margin-top: 15px;
+}
+
+#download
+{
+	font-size: 1.8em;
+	color: red;
+	text-align: center;
+}
+
+#zone_download
+{
+	display: flex;
+	justify-content: center;
+}
+
+.form
+{
+	margin-left: 20px;
+	font-size: 1.5em;
+	margin-top: 10px;
+}
+
+#img_download
+{
+	margin: 40px;
+}
+
+footer
+{
+	background-color: #D8D8D8;
+	display: flex;
+	justify-content: space-between;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 5%;
+	font-weight: bold;
+}
